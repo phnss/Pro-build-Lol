@@ -1,0 +1,25 @@
+Esse programa deve ajuda-lo a ter uma noção inicial de quais itens são bons para certos campeões e em quais rotas são mais usados.
+Mas estamos trabalhando de forma geral, pode haver situações diferentes do que explicitado aqui dando certo ou errado,
+devido ao alto grau de variedade do jogo, por isso considere esse programa como uma ajuda e uma base para melhorar sua forma de jogar.
+
+Os feitiços do invocador, são magias que ta ajudarão em momemtos do jogo, por isso é bom escolhe-los com sabedoria, os mais usados
+são : 
+-Flash, que te ajuda a escapar de momentos difíceis ou na criação de oportunidades incríveis.
+-Teleporte, Como o próprio nome já diz, você o usa para chegar em suas contruções rapidamente, ou ir para determinado local do mapa que precise de você.
+-Incendiar, usado para garantir que o inimigo morra, pois da dano de forma contínua durante um determinado tempo, o dano aumenta de acordo com o seu nível.
+-Golpear, feitiço mais importante para aqueles que querem jogar na Selva, pois com ele você consegue fazê-la sem muitas dificuldades e te garante a possibiliade de comprar os itens destinados para a selva.
+-Os outro feitiços não muitos usados, por isso não falarei deles.
+
+Os itens inicias, são para você comprar o ínicio da partida e normalmente ao compra-los sobrará uma quantidade de ouro que pode ser gasta na compra de poções.
+Os itens essenciais colocados na lista de  cada campeão, são itens possuem um tipo de sinergia, aproveitando de sua total funcionalidade.
+Os itens situacionais foram colocados para serem comprados de acordo com a situação do jogo, para saber qual comprar você precisa entender de forma geral o que está acontecendo.
+Mas se você está começando agora não precisa se preocupar com isso, apenas se preocupe em entender a funcionalidade de cada um, poderá assim seguir a ordem dos situacionais.
+
+Os comfrontos colocados como favoráveis e desfavoráveis, são baseados em estatísticas de jogos onde aconteciam esse confronto, então não é certeza se você pegar um campeão
+baseado nessa parte do texto, você ganha-lo, pois em um jogo existe diversas varíavieis. O que acontece é que eles possuem uma vantagem, seja pequena ou grande sobre determinados campeões.
+
+As runas listadas para cada campeão funcionam da mesmo maneira que o os confrontos, foram colocadas ao mais usadas em cada campeão baseados em estatísticas, runas não colocadas aqui podem sim
+funcionar. Mas para efeito de aprender a usa-las e entende-las, o ideal é seguir o que foi colocado.
+Foram divididos em duas, as runas principais e as secundárias.
+
+E na última linha mostra quais são os melhoramentos iniciais indicados para o campeão, de acordo com o jogo pode mudar.

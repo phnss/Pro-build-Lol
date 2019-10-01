@@ -1,0 +1,17 @@
+Campeão escolhido:Alistar
+Função geralmente usado:Suporte
+Estilo:Utilidade e Tank
+
+Feitiços do invocador:Flash e Incendiar/Exaustão
+itens iniciais:Escudo Relicário
+itens essenciais:Botas da Mobilidade/Resquício do Aspecto
+itens situacionais:Cadinho de Mikael/Juramento do Cavaleiro/Convergência de Zeke/Medalhão dos Solari de Ferro/Redenção
+
+comfronto desfavorável:Brand, Braum, Morgana, Nautilus, Leona, Galio, Sona 
+comfronto favorável:Blitzcrank, Yuumi, Zyra, Tresh, Pyke, Rakan
+
+runas:Determinação->Pós-choque/Demolir/Osso Revestido/Crescimento Excessivo
+
+secundária:Inspiração->Entrega de Biscoito/Perspicácia Cósmica
+
+Força Adptativa/Armadura/Vida

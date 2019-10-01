@@ -1,0 +1,17 @@
+Campeã escolhida:Sejuani
+Função geralmente usada:Selva
+Estilo:Lutadora e Tank
+
+Feitiços do invocador:Flash e Golpear
+itens iniciais:Talismã do Caçador e Poção com Refil
+itens essenciais:Encantamento: Titã Ardente/Passos de Mercúrio ou Tabi Ninja/Armadura de Warmog
+itens situacionais:Placa Gargolítica/Armadura de Espinhos/Presságio de Randuin/Couraça do Denfunto/Elmo Adptativo/Juramento do Cavaleiro
+
+comfronto desfavorável:Trundle, Zac, Nidalee, Warwick, Vi, Karthus, Hecarim 
+comfronto favorável:Pantheon, Twitch, Rek'Sai, Evelynn, Graves, Taliyah, Rengar
+
+runas:Determinação->Pós-choque/Fonte de Vida/Condicionamento/Crescimento Excessivo
+
+secundária:Precisão->Triunfo/Lenda: Espontaneidade
+
+Força Adptativa/Força Adptativa/Vida

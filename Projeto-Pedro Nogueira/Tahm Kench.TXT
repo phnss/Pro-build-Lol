@@ -1,0 +1,17 @@
+Campeão escolhido:Tahm Kench
+Função geralmente usado:Suporte
+Estilo:Utilidade e Tank
+
+Feitiços do invocador:Flash e Incendiar/Exaustão
+itens iniciais:Escudo Relicário
+itens essenciais:Resquício do Aspecto/Botas da Rapidez/Juramento do Cavaleiro
+itens situacionais:Cadinho de Mikael/Convergência de Zeke/Medalhão dos Solari de Ferro/Redenção/Placa Gargolítica
+
+comfronto desfavorável:Zyra, Nami, Janna, Yuumi, Lux, Leona, Pyke
+comfronto favorável:Alistar, Braum, Soraka, Rakan, Blitzcrank, Sejuani, Taric
+
+runas:Determinação->Guardião/Golpe de Escudo/Osso Revestido/Crescimento Excessivo
+
+secundária:Inspiração->Calçados Mágicos/Velocidade de Aproximação
+
+Força Adaptativa/Armadura/Resistência Mágica

@@ -1,0 +1,17 @@
+Campeã escolhida:Ashe
+Função geralmente usada:Atirador
+Estilo:Atiradora e utilidade
+
+Feitiços do invocador:Flash e Curar/Teleporte
+itens iniciais:Lâmina de Doran
+itens essenciais:Espada do Rei Destruído/Colhedor de Essência/Grevas do Berserker/Força da Trindade
+itens situacionais:Canhão Fumegante/Gume do Infinito/Anjo Guardião/Furacão de Runaan/Dançarina Fantasma
+
+comfronto desfavorável:Yasuo, Twitch, Jinx, Sivir, Jhin, Miss Fortune, Varus
+comfronto favorável:Swain, Soraka, Janna, Bardo, Leona, Rakan, Vel´koz, Alistar
+
+runas:Precisão->Ritmo Fatal/Triunfo/Lenda: Linhagem/Golpe de Misericórdia
+
+secundária:Inspiração->Entrega de Biscoito/Velocidade de Aproximação
+
+Velocidade de Ataque/Força Adaptativa/Armadura

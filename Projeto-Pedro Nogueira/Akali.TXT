@@ -1,0 +1,17 @@
+Campeã escolhida:Akali
+Função geralmente usada:No meio e topo
+Estilo:Assassina
+
+Feitiços do invocador:Flash e Incendiar/Teleporte
+itens iniciais:Escudo de Doran ou Poção Corrupta
+itens essenciais:Pistola Laminar Hextec/Sapatos do Feiticeiro/Ampulheta de Zhonya
+itens situacionais:Tormento de Liandry/Morellonomicon/Capuz da morte de Rabadon/Cajado do Vazio
+
+comfronto desfavorável:Azir, Sylas, Veigar, Lissandra, Lux, Pantheon, Zed, Morgana, Yasuo 
+comfronto favorável:Aatrox, Corki, Lucian, Rumble, Xerath, Viktor, Irelia, Ryse, Karma, Ekko
+
+runas:Dominação->Eletrocutar/Impacto Repentino/Globos Oculares/Caça Voraz
+
+secundária:Precisão->Triunfo/Golpe de Misericórdia
+
+Força Adptativa/Força Adptativa/Resistência Mágica

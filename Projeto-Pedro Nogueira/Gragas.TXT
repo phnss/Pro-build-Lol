@@ -1,0 +1,17 @@
+Campeão escolhido:Gragas
+Função geralmente usado:Selva
+Estilo: Lutador e Mago
+
+Feitiços do invocador:Flash e Golpear
+itens iniciais:Talismã do Caçador e Poção com Refil
+itens essenciais:Encantamento: Ecos Rúnicos/Sapatos do Feiticeiro/Morellonomicon
+itens situacionais:Ampulheta de Zhonya/Cajado do Vazio/Capuz da Morte de Rabadon/Véu de Banshee/Ladrão de Almas de Mejai
+
+comfronto desfavorável:Poppy, Jax, Dr.Mundo, Volibear, Udyr, Skarner, Warwick, Kha'Zix
+comfronto favorável:Wukong, Trundle, Nidalee, Qiyana, Karthus, Pantheon, Sylas, Lee sin 
+
+runas:Dominação->Predador/Golpe Desleal/Globos Oculares/Caça Ardilosa
+
+secundária:Inspiração->Sicronia Perfeita/Perspicácia Cósmica
+
+Redução de Tempo de Recarga/Força Adptativa/Armadura

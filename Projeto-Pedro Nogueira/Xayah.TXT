@@ -1,0 +1,17 @@
+Campeã escolhida:Xayah
+Função geralmente usada:Atirador
+Estilo:Atiradora
+
+Feitiços do invocador:Flash e Curar/Teleporte
+itens iniciais:Lâmina de Doran
+itens essenciais:Colhedor de Essência/Grevas do Berserker/Gume do Infinito
+itens situacionais:Canhão Fumegante/Dançarina Fantasma/Anjo Guardião/Cimitarra Mercurial/Sedenta por Sangue
+
+comfronto desfavorável:Swain, Kog'Maw, Jhin, Jinx, Caitlyn, Thresh, Miss Fortune
+comfronto favorável:Veigar, Syndra, Yasuo, Kalista, Tristana, Kai'sa, Lucian, Sivir
+
+runas:Precisão->Ritmo Fatal/Triunfo/Lenda: Linhagem/Golpe de Misericórdia
+
+secundária:Inspiração->Calçados Mágicos/Entrega de Biscoito
+
+Velocidade de Ataque/Força Adaptativa/Armadura

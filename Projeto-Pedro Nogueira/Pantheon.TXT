@@ -1,0 +1,17 @@
+Campeão escolhido:Pantheon
+Função geralmente usado:Topo e Selva
+Estilo: Lutador e Assassino
+
+Feitiços do invocador:Flash e Teleporte ou Golpear(Selva)
+itens iniciais:Poção Corrupta(solo lane)/ Talismã do Caçador e Poção com Refil(Selva)
+itens essenciais:Encantamento: Guerreiro(Selva)/Lâmina Fantasma de Youmuu/Bota de Mercúrio ou Tabi ninja/Cutelo Negro
+itens situacionais:Fúria de Sterak/Anjo Guardião/Dança da Morte/Crepúsculo de Draktharr/Limiar da Noite/Semblante Espiritual
+
+comfronto desfavorável:Pyke, Maokai, Nocturne, Yorick, Ekko, Quinn, Kayle 
+comfronto favorável:Tahm Kench, Lucian, Akali, Rengar, Sylas, Wukong, Vladimir, Aatrox
+
+runas:Precisão->Conquistador/Triunfo/Lenda:Tenacidade/Golpe de Misericórdia
+
+secundária:Dominação->Gosto de Sangue/Caça Voraz
+
+Velocidade de Ataque/Força Adptativa/Resistência Mágica

@@ -1,0 +1,17 @@
+Campeão escolhido:Ezreal
+Função geralmente usado:Atirador
+Estilo:Atirador
+
+Feitiços do invocador:Flash e Curar/Teleporte
+itens iniciais:Lâmina de Doran
+itens essenciais:Manamune/Botas Ionianas da Lucidez/Força da Trindade
+itens situacionais:Espada do Rei Destruído/Manopla dos Glacinatas/Anjo Guardião/Eco de Luden/Lembrete Mortal
+
+comfronto desfavorável:Garen, Lux, Yasuo, Twitch, Jinx, Nautilus, Jhin, Ashe
+comfronto favorável:Thresh, Morgana, Syndra, Veigar, Kalista, Lucian, Xayah, Sivir
+
+runas:Inspiração->Cleptomancia/Calçados Mágicos/Entrega de Biscoito/Perspicácia Cósmica
+
+secundária:Feitiçaria->Faixa de Fluxo de Mana/Transcedência
+
+Força Adaptativa/Força Adaptativa/Resistência Mágica

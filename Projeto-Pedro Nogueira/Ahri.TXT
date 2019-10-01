@@ -1,0 +1,17 @@
+Campeã escolhida:Ahri
+Função geralmente usada:No meio
+Estilo:Maga e assassina
+
+Feitiços do invocador:Flash e Incendiar
+itens iniciais:Anel de Doran ou Poção corrupta
+itens essenciais:Hextec GLP-800/Sapatos de feiticeiro/Sombras gêmeas
+itens situacionais:Eco de Luden/Ampulheta de zhonya/Ladrão de almas de Mejai/Morellonomicon/Capuz da morte de Rabadon/Cajado do Vazio
+
+comfronto desfavorável:Kayle, Kennen, Rumble, Karthus, Ziggs, Katarina, Yasuo, Fizz 
+comfronto favorável:Aatrox, Caitlyn, Draven, Karma, Lissandra, Orianna, Camile, Akali, Neeko
+
+runas:Inspiração->Aprimoramento Glacial/Calçados Mágicos/Pulverizador de Tropas/Perspicácia Cósmica
+
+secundária:Dominação->Golpe Desleal/Caça Suprema
+
+Força Adptativa/Força Adptativa/Resistência Mágica

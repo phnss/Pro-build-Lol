@@ -1,0 +1,17 @@
+Campeão escolhido:Darius
+Função geralmente usado:No topo
+Estilo:Lutador e Tank
+
+Feitiços do invocador:Flash e Incendiar/Teleporte
+itens iniciais:Escudo de doran ou Lâmina de doran
+itens essenciais:Força da Trindade/Bota de Mercúrio ou Tabi ninja/Fúria de Sterak
+itens situacionais:Cutelo Negro/Anjo Guardião/Couraça do Defunto/Semblante Espiritual/Presságio de Randuin/Hidra Titânica
+
+comfronto desfavorável:Heimerdinger, Warwick, Nocturne, Vayne, Teemo, Camile, Pyke, Tristana
+comfronto favorável:Ekko, Irelia, Rengar, Olaf, Sylas, Ornn, Nasus, Rumble, Renekton
+
+runas:Precisão->Conquistador/Triunfo/Lenda: Espontaneidade/Golpe de Misericórdia
+
+secundária:Determinação->Demolir/Osso Revestido
+
+Velocidade de Ataque/Força Adaptativa/Resistência Mágica

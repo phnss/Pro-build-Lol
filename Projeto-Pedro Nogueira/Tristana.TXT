@@ -1,0 +1,17 @@
+Campeã escolhida:Tristana
+Função geralmente usada:Atirador
+Estilo:Atiradora e Assassina
+
+Feitiços do invocador:Flash e Curar/Teleporte
+itens iniciais:Lâmina de Doran
+itens essenciais:Gume do Infinito/Grevas do Berserker/Canhão Fumegante
+itens situacionais:Sedenta por Sangue/Espada do Rei Destruído/Anjo Guardião/Faca de Statikk/Colhedor de Essência/Chuva de Canivete
+
+comfronto desfavorável:Swain, Jinx, Yasuo, Ashe, Jhin, Xayah, Vayne
+comfronto favorável:Kalista, Varus, Ezreal, Sivir, Twitch, Kog'Maw
+
+runas:Precisão->Pressione o Ataque/Triunfo/Lenda: Espontaneidade/Golpe de Misericórdia
+
+secundária:Dominação->Gosto de Sangue/Caça Voraz
+
+Velocidade de Ataque/Força Adaptativa/Armadura

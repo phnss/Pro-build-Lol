@@ -1,0 +1,17 @@
+Campeão escolhido:Lee Sin
+Função geralmente usado:Selva
+Estilo: Lutador e Assassino
+
+Feitiços do invocador:Flash e Golpear
+itens iniciais:Machete do Caçador e Poção com Refil
+itens essenciais:Encantamento: Guerreiro/Bota de Mercúrio ou Tabi ninja/Cutelo Negro
+itens situacionais:Fúria de Sterak/Anjo Guardião/Hidra Raivosa/Mandíbula de Malmortius/Crepúsculo de Draktar
+
+comfronto desfavorável:Rumble, Nautilus, Taliyah, Nocturne, Rengar, Olaf, Poppy
+comfronto favorável:Kai'sa, Tryndamere, Riven, Qiyana, Camile, Sejuani, Mordekaiser
+
+runas:Dominação->Eletrocutar/Impacto Repentino/Globos Oculares/Caça Incansável
+
+secundária:Precisão->Triunfo/Golpe de Misericórdia
+
+Velocidade de Ataque/Força Adptativa/Armadura

@@ -1,0 +1,17 @@
+Campeão escolhido:Garen
+Função geralmente usado:No topo
+Estilo:Lutador e Tank
+
+Feitiços do invocador:Flash e Teleporte
+itens iniciais:Escudo de doran
+itens essenciais:Cutelo Negro/Bota de Mercúrio ou Tabi ninja/Semblante Espiritual
+itens situacionais:Fúria de Sterak/Capa de Fogo Solar/Couraça do Defunto/Lança de Shojin/Presságio de Randuin/Armadura de Espinhos
+
+comfronto desfavorável:Yorick, Kayle, Vayne, Kennen, Swain, Teemo, Vladimir, Darius
+comfronto favorável:Ekko, Irelia, Rengar, Olaf, Sylas, Ornn, Nasus, Rumble, Renekton
+
+runas:Determinação->Aperto dos Mortos Vivos/Demolir/Condicionamento/Crescimento Excessivo
+
+secundária:Precisão->Triunfo/Golpe de Misericórdia
+
+Força Adptativa/Armadura/Resistência Mágica

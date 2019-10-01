@@ -1,0 +1,17 @@
+Campeão escolhido:Pyke
+Função geralmente usado:Suporte, Mid e Top
+Estilo:Suporte e Assassino
+
+Feitiços do invocador:Flash e Incendiar
+itens iniciais:Escudo Relicário ou Moeda Antiga
+itens essenciais:Botas da Mobilidade/Crepúsculo de Draktharr/Resquício do Aspecto
+itens situacionais:Lâmina Fantasma de Youmuu/Limiar da Noite/Anjo Guardião/Mandíbula de Malmortius
+
+comfronto desfavorável:Zyra, Sona, Kai'sa, Pantheon, Nautilus, Rakan, Swain
+comfronto favorável:Ashe, Miss Fortune, Tahm Kench, Braum, Yuumi, Xerath, Ezreal
+
+runas:Determinação->Pós-choque/Fonte da Vida/Osso Revestido/Revitalizar
+
+secundária:Dominação->Impacto Repentino/Caça Suprema
+
+Força Adptativa/Armadura/Armadura

@@ -1,0 +1,17 @@
+Campeão escolhido:Yasuo
+Função geralmente usado:Meio e no topo
+Estilo: Lutador e Assassino
+
+Feitiços do invocador:Flash e Incendiar/Teleporte
+itens iniciais:Lâmina de doran ou escudo de doran
+itens essenciais:Grevas do Berserk/Faca Statikk/Gume do Infinito
+itens situacionais:Sedenta por Sangue/Fúria de Sterak/Anjo Guardião/Dançarina Fantasma/Cimitarra Mercurial/Mandíbula de Malmortius
+
+comfronto desfavorável:Jax, Kayle, Fiora, Wukong, Rumble, Renekton, Teemo
+comfronto favorável:Garen, Aatrox, Jayce, Ezreal, Heimerdinger, Viktor, Akali, Darius, Lissandra
+
+runas:Precisão->Conquistador/Triunfo/Lenda:Espontaneidade/Golpe de Misericórdia
+
+secundária:Dominação->Gosto de Sangue/Caça Voraz
+
+Velocidade de Ataque/Força Adptativa/Resistência Mágica

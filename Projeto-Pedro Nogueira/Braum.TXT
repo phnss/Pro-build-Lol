@@ -1,0 +1,17 @@
+Campeão escolhido:Braum
+Função geralmente usado:Suporte
+Estilo:Utilidade e Tank
+
+Feitiços do invocador:Flash e Incendiar/Exaustão
+itens iniciais:Escudo Relicário
+itens essenciais:Botas da Mobilidade/Resquício do Aspecto/Juramento do Cavaleiro
+itens situacionais:Cadinho de Mikael/Convergência de Zeke/Medalhão dos Solari de Ferro/Redenção
+
+comfronto desfavorável:Soraka, Xerath, Zilean, Galio, Sona, Nami, Rakan, Pyke
+comfronto favorável:Alistar, Veigar, Neeko, Tahm Kench, Taric, Lux
+
+runas:Determinação->Guardião/Fonte de Vida/Osso Revestido/Crescimento Excessivo
+
+secundária:Inspiração->Entrega de Biscoito/Perspicácia Cósmica
+
+Redução de Tempo de Recarga/Armadura/Armadura

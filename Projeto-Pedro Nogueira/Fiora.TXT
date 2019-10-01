@@ -1,0 +1,17 @@
+Campeã escolhida:Fiora
+Função geralmente usada:Topo
+Estilo: Lutadora e Assassina
+
+Feitiços do invocador:Flash e Teleporte
+itens iniciais:Lâmina de doran ou escudo de doran
+itens essenciais:Hidra Raivosa/Bota de Mercúrio ou Tabi ninja/Força da Trindade
+itens situacionais:Fúria de Sterak/Anjo Guardião/Dança da Morte/Mandíbula de Malmortius/Lança de Shojin/Sedenta por Sangue
+
+comfronto desfavorável:Quinn, Urgot, Rengar, Kayle, Pantheon, Camile, Akali
+comfronto favorável:Aatrox, Irelia, Sylas, Ekko, Gnar, Trundle, Neeko, Kled, Yasuo, Ornn
+
+runas:Precisão->Conquistador/Triunfo/Lenda:Espontaneidade/Golpe de Misericórdia
+
+secundária:Determinação->Osso revestido/Revitalizar
+
+Velocidade de Ataque/Força Adptativa/Resistência Mágica

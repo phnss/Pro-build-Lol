@@ -1,0 +1,17 @@
+Campeão escolhido:Sylas
+Função geralmente usado:Meio e Selva e no Topo
+Estilo:Mago e Assassino
+
+Feitiços do invocador:Flash e Teleporte/Incendiar ou Golpear(caso esteja na Selva)
+itens iniciais:Poção Corrupta
+itens essenciais:Protocinturão-01 Hextec/Sapatos do Feiticeiro/Eco de luden/Encantamento: Ecos Rúnicos(Selva)
+itens situacionais:Morellonomicon/Ampulheta de Zhonya/Capuz da Morte de Rabadon
+
+comfronto desfavorável:Wukong, Heimerdinger, Vel'Kroz, Camile, Garen, Annie, Renekton, Kayle
+comfronto favorável:Cho'Gath, Ezreal, Ziggs, Akali, Azir, Lucian, Tristana, Irelia, Pyke
+
+runas:Precisão->Conquistador/Triunfo/Lenda: Tenacidade/Golpe de Misericórdia
+
+secundária:Feitiçaria->Faixa de Fluxo de Mana/Transcendência
+
+Força Adptativa/Força Adptativa/Armadura

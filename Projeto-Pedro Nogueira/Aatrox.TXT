@@ -1,0 +1,17 @@
+Campeão escolhido: Aatrox
+Função geralmente usado:Topo e Mid
+Estilo: Lutador e Tank
+
+Feitiços do invocador:Flash e Teleporte
+itens iniciais:Lâmina de doran ou escudo de doran
+itens essenciais:Cutelo Negro/Bota de Mercúrio ou Tabi ninja/Dança da Morte
+itens situacionais:Fúria de Sterak/Anjo Guardião/Semblante Espiritual/Lança de Shojin/Presságio de Randuin
+
+comfronto desfavorável:Singed, Yorick, Cho'Gath, Kennen, Kled, Camile, Gnar
+comfronto favorável:Garen, Urgot, Kayle, Swain, Teemo, Yasuo, Ornn, Akali
+
+runas:Precisão->Conquistador/Triunfo/Lenda:Tenacidade/Golpe de Misericórdia
+
+secundária:Determinação->Osso revestido/Revitalizar
+
+Força Adptativa/Força Adptativa/Resistência Mágica

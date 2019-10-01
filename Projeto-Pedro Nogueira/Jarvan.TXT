@@ -1,0 +1,17 @@
+Campeão escolhido:Jarvan
+Função geralmente usado:Selva
+Estilo: Lutador e Tank
+
+Feitiços do invocador:Flash e Golpear
+itens iniciais:Machete do Caçador e Poção com Refil
+itens essenciais:Encantamento: Guerreiro/Passos de Mercúrio/Cutelo Negro
+itens situacionais:Anjo Guardião/Semblante Espiritual/Couraça do Defunto/Placa Gargolítica/Armadura de Warmog/Fúria de Sterak
+
+comfronto desfavorável:Poppy, Aatrox, Tryndamere, Volibear, Rek'Sai, Rammus, Shyvana, Kha'Zix
+comfronto favorável:Camile, Trundle, Pantheon, Fiddlestick, Mordekaiser, Sejuani, Qiyana, Sylas, Master Yi 
+
+runas:Dominação->Eletrocutar/Impacto Repentino/Globos Oculares/Caça Incansável
+
+secundária:Precisão->Triunfo/Lenda: Espontaneidade
+
+Força Adaptativa/Força Adptativa/Resistência Mágica

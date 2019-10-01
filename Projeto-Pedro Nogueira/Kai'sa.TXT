@@ -1,0 +1,17 @@
+Campeã escolhida:Kai'sa
+Função geralmente usada:Atirador
+Estilo:Atiradora
+
+Feitiços do invocador:Flash e Curar/Teleporte
+itens iniciais:Lâmina de Doran
+itens essenciais:Manamune/Grevas do Berserker/Lâmina de Fúria de Guinsoo
+itens situacionais:Canhão Fumegante/Gume do Infinito/Anjo Guardião/Furacão de Runaan/Capuz da Morte de Rabadon
+
+comfronto desfavorável:Leona, Nautilus, Swain, Quinn, Jinx, Kog'Maw, Jhin, Ashe
+comfronto favorável:Pyke, Kindred, Karma, Kalista, Rakan, Corki, Varus
+
+runas:Precisão->Pressione o Ataque/Triunfo/Lenda: Linhagem/Golpe de Misericórdia
+
+secundária:Inspiração->Calçados Mágicos/Entrega de Biscoito
+
+Velocidade de Ataque/Força Adaptativa/Resistência Mágica
